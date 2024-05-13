@@ -1,3 +1,7 @@
+# About The Project
+
+This application deals with real projects management. Being used to create projects, analyze them and to use them as a check to verify that everything right according to the informations in the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
