@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Pablo Alves Freire",
+      "budget": "13000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 8000,
+      "services": [
+        {
+          "name": "Muito importante",
+          "cost": "8000",
+          "description": "é muito caro",
+          "id": "c0c59d2c-acf2-4b02-b924-4e6b61449cd1"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Projeto de Rita",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
